@@ -1,4 +1,4 @@
-# SkillSprout LifeOS PRO 🚀
+# LifeOS PRO 🚀
 
 Your Personal Digital Twin Dashboard — track your goals, skills, and achievements in one place.
 
